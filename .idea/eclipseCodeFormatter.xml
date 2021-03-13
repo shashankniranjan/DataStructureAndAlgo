@@ -3,14 +3,11 @@
   <component name="EclipseCodeFormatterProjectSettings">
     <option name="projectSpecificProfile">
       <ProjectSpecificProfile>
-        <option name="configType" value="ECLIPSE_2_1" />
         <option name="formatter" value="ECLIPSE" />
       </ProjectSpecificProfile>
     </option>
     <option name="selectedGlobalProfile">
       <Settings>
-        <option name="configType" value="ECLIPSE_2_1" />
-        <option name="formatter" value="ECLIPSE" />
         <option name="id" value="1615433383483" />
         <option name="name" value="new" />
       </Settings>
